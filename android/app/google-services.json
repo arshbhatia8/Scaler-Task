@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66656228995",
+    "project_id": "interviewscheduler-ad524",
+    "storage_bucket": "interviewscheduler-ad524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66656228995:android:b08216bd13c2669fb6edb6",
+        "android_client_info": {
+          "package_name": "com.company.interviewbit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66656228995-dukf7qttti7gmf2rk8vb9tacr1q65dfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAT24fY9yjzjQhEkzRNXbwaIspZoslMeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66656228995-dukf7qttti7gmf2rk8vb9tacr1q65dfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
